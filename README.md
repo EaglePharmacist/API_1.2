@@ -1,0 +1,1 @@
+[![Java CI with Gradle](https://github.com/EaglePharmacist/API_1.2/actions/workflows/maven.yml/badge.svg)](https://github.com/EaglePharmacist/API_1.2/actions/workflows/maven.yml)
